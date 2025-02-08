@@ -1,0 +1,7 @@
+Task:
+
+Write program using any programming language to check your connection to 10 different sites.
+
+Python is priority language.
+To check connection use built-in bash utility <ping>
+To send and receive only some count of packets use flag -c <number_of_packets>.

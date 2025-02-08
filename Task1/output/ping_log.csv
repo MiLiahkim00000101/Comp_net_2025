@@ -1,0 +1,11 @@
+Server_Name;Packet_loss;RTT
+youtube.com;0.0%;34.740 ms
+google.com;0.0%;29.379 ms
+universe.roboflow.com;0.0%;39.061 ms
+github.com;0.0%;25.779 ms
+yaandex.ru;0.0%;51.299 ms
+www.multitran.com;0.0%;26.099 ms
+vk.com;0.0%;5.052 ms
+mail.google.com;0.0%;2.710 ms
+colab-alv.research.google.com;0.0%;12.220 ms
+koronatech.ru;100.0%;
