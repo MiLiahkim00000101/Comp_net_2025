@@ -2,8 +2,8 @@
 // После этого я удалил .github в клонированном репозитории
 
 // in directory Semenars/
->> git commit -m "Task 2 ready"
-
 >> git add Task2
+
+>> git commit -m "Task 2 ready"
 
 >> git push
